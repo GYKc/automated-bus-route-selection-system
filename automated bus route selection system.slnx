@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="automated bus route selection system/automated bus route selection system.vcxproj" Id="96642baf-7690-4aa3-b6af-7abd1b1380e3" />
+</Solution>
